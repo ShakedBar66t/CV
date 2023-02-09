@@ -1,0 +1,40 @@
+.card {
+    padding: 40px 0;
+    box-shadow: 4px 4px 4px var(--darkest-clr);
+}
+
+.card .card-title{
+    font-family: merriweather;
+    font-weight: 700;
+    margin-block-end: 10px;
+    text-decoration: underline;
+}
+
+.card .card-paragraph {
+    font-size: 0.875em;
+    color: var(--mid-clr);
+}
+
+.card .card-list-item .perk {
+    font-size: 0.875em;
+    color: var(--mid-clr);
+}
+
+.card .card-list {
+    list-style: none;
+}
+
+.card .card-list-item {
+    margin-bottom: 20px;
+}
+
+.card .card-list :last-child {
+    margin-bottom: 0;
+}
+
+.card .card-list-item h3 {
+    margin-bottom: 5px;
+    text-decoration: underline;
+    font-weight: 400;
+    font-size: 16px;
+}

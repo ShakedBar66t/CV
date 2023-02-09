@@ -1,0 +1,26 @@
+header {
+    background: var(--darkest-clr);
+}
+
+header .main-header {
+    height: 160px;
+}
+
+header .main-header .main-header-img {
+    width: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-inline-end: 10%;
+}
+header .main-header .main-header-icon {
+    width: 40px;
+}
+
+header .main-header .main-header-name {
+    color: var(--light-clr);
+    font-family: merriweather;
+}
+
+header .main-header .main-header-description {
+    color: var(--mid-clr);
+}
