@@ -1,0 +1,14 @@
+footer {
+    background: var(--darkest-clr);
+    color: var(--lightest-clr);
+}
+
+footer img {
+    width: 20px;
+    background-color: var(--lightest-clr);
+}
+
+footer a {
+    color: var(--lightest-clr);
+    text-decoration: none;
+}
