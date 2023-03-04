@@ -12,3 +12,10 @@ footer a {
     color: var(--lightest-clr);
     text-decoration: none;
 }
+
+@media (max-width: 375px) {
+    footer .main-layout {
+        display: flex;
+        flex-direction: column;
+    }
+}
