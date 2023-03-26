@@ -1,8 +1,8 @@
 :root{
-    --darkest-clr: #594545;
-    --dark-clr: #815B5B;
-    --mid-clr: #9E7676;
-    --light-clr: #FFF8EA;
-    --lightest-clr: #fbf7ed;
-    --main-font-clr: #201818;
+    --darkest-clr: #222222;
+    --dark-clr: #333333;
+    --mid-clr: #555555;
+    --light-clr: #ffffff;
+    --lightest-clr: #FFFFFF;
+    --main-font-clr: #333333;
 }
